@@ -1,0 +1,26 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "productionSpecificationSchedule" : "productionSpecificationSchedule",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "productionRetrieveActionResponse" : "productionRetrieveActionResponse",
+  "serviceName" : "serviceName",
+  "productionInstanceAnalysis" : {
+    "productionInstanceAnalysisParameters" : "productionInstanceAnalysisParameters",
+    "productionInstanceAnalysisReport" : {},
+    "productionInstanceAnalysisRecord" : {},
+    "productionInstanceAnalysisReportType" : "productionInstanceAnalysisReportType"
+  },
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "productionVersionNumber" : "productionVersionNumber",
+  "productionRetrieveActionTaskReference" : "PRATR720226",
+  "productionRetrieveActionTaskRecord" : {},
+  "serviceDescription" : "serviceDescription",
+  "productionInstanceReport" : {
+    "productionInstanceReportRecord" : {},
+    "productionInstanceReportType" : "productionInstanceReportType",
+    "productionInstanceReport" : {},
+    "productionInstanceReportParameters" : "productionInstanceReportParameters"
+  },
+  "productionPreconditions" : "productionPreconditions"
+}

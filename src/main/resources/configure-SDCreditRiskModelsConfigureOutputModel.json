@@ -1,0 +1,21 @@
+{
+  "creditRiskModelsServiceConfigurationRecord" : {
+    "creditRiskModelsServiceAgreement" : {
+      "creditRiskModelsServiceAgreementReference" : "721156",
+      "creditRiskModelsServiceAgreementTermsandConditions" : "creditRiskModelsServiceAgreementTermsandConditions",
+      "creditRiskModelsServiceUserReference" : "733696"
+    },
+    "creditRiskModelsServiceConfigurationSettingDescription" : "creditRiskModelsServiceConfigurationSettingDescription",
+    "creditRiskModelsServiceStatus" : "creditRiskModelsServiceStatus",
+    "creditRiskModelsServiceConfigurationSetup" : {
+      "creditRiskModelsServiceConfigurationParameter" : "creditRiskModelsServiceConfigurationParameter"
+    },
+    "creditRiskModelsServiceSubscription" : {
+      "creditRiskModelsServiceSubscriberReference" : "756221",
+      "creditRiskModelsServiceSubscriberAccessProfile" : "creditRiskModelsServiceSubscriberAccessProfile"
+    }
+  },
+  "creditRiskModelsServicingSessionStatus" : "creditRiskModelsServicingSessionStatus",
+  "creditRiskModelsConfigurationActionTaskRecord" : {},
+  "creditRiskModelsConfigurationActionTaskReference" : "SCATR765419"
+}

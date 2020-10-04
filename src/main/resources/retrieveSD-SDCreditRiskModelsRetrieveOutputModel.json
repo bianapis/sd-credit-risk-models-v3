@@ -1,0 +1,39 @@
+{
+  "creditRiskModelsRetrieveActionTaskRecord" : {},
+  "creditRiskModelsRetrieveActionResponse" : "creditRiskModelsRetrieveActionResponse",
+  "creditRiskModelsRetrieveActionRecord" : {
+    "creditRiskModelsActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "creditRiskModelsPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "creditRiskModelsRetrieveActionTaskReference" : "SRATR795161",
+  "creditRiskModelsOfferedService" : {
+    "creditRiskModelsServiceReference" : "776158",
+    "creditRiskModelsServiceRecord" : {
+      "creditRiskModelsServiceDescription" : "creditRiskModelsServiceDescription",
+      "creditRiskModelsServiceType" : "creditRiskModelsServiceType",
+      "creditRiskModelsServiceVersion" : "creditRiskModelsServiceVersion",
+      "creditRiskModelsServiceSchedule" : "creditRiskModelsServiceSchedule",
+      "creditRiskModelsServicePoliciesandGuidelines" : {
+        "creditRiskModelsServiceEligibility" : "creditRiskModelsServiceEligibility",
+        "creditRiskModelsServicePricingandTerms" : "creditRiskModelsServicePricingandTerms",
+        "creditRiskModelsServiceIntendedUses" : "creditRiskModelsServiceIntendedUses"
+      }
+    }
+  }
+}

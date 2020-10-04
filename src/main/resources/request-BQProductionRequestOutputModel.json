@@ -1,0 +1,15 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "productionSpecificationSchedule" : "productionSpecificationSchedule",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "productionRequestRecordReference" : "PRRR757140",
+  "serviceName" : "serviceName",
+  "requestResponseRecord" : {},
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "productionRequestActionTaskRecord" : {},
+  "productionVersionNumber" : "productionVersionNumber",
+  "productionRequestActionTaskReference" : "PRATR731882",
+  "serviceDescription" : "serviceDescription",
+  "productionPreconditions" : "productionPreconditions"
+}

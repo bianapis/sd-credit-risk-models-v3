@@ -1,0 +1,15 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "productionSpecificationSchedule" : "productionSpecificationSchedule",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "productionCaptureActionTaskReference" : "PCATR775601",
+  "productionCaptureRecordReference" : "PCRR787770",
+  "serviceName" : "serviceName",
+  "productionCaptureActionTaskRecord" : {},
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "productionVersionNumber" : "productionVersionNumber",
+  "serviceDescription" : "serviceDescription",
+  "captureResponseRecord" : {},
+  "productionPreconditions" : "productionPreconditions"
+}

@@ -1,0 +1,15 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "testingVersionNumber" : "testingVersionNumber",
+  "testingRequestActionTaskReference" : "TRATR746476",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "testingSpecificationSchedule" : "testingSpecificationSchedule",
+  "serviceName" : "serviceName",
+  "requestResponseRecord" : {},
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "testingRequestActionTaskRecord" : {},
+  "testingPreconditions" : "testingPreconditions",
+  "serviceDescription" : "serviceDescription",
+  "testingRequestRecordReference" : "TRRR762149"
+}

@@ -1,0 +1,15 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "testingVersionNumber" : "testingVersionNumber",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "testingCaptureRecordReference" : "TCRR741453",
+  "testingCaptureActionTaskRecord" : {},
+  "testingSpecificationSchedule" : "testingSpecificationSchedule",
+  "serviceName" : "serviceName",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "testingCaptureActionTaskReference" : "TCATR701822",
+  "testingPreconditions" : "testingPreconditions",
+  "serviceDescription" : "serviceDescription",
+  "captureResponseRecord" : {}
+}

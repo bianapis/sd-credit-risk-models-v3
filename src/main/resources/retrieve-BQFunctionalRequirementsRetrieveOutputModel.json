@@ -1,0 +1,25 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "functionalRequirementsPreconditions" : "functionalRequirementsPreconditions",
+  "functionalRequirementsRetrieveActionResponse" : "functionalRequirementsRetrieveActionResponse",
+  "functionalRequirementsRetrieveActionTaskReference" : "FRRATR712564",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "functionalRequirementsInstanceReport" : {
+    "functionalRequirementsInstanceReportType" : "functionalRequirementsInstanceReportType",
+    "functionalRequirementsInstanceReportParameters" : "functionalRequirementsInstanceReportParameters",
+    "functionalRequirementsInstanceReportRecord" : {},
+    "functionalRequirementsInstanceReport" : {}
+  },
+  "functionalRequirementsRetrieveActionTaskRecord" : {},
+  "functionalRequirementsSpecificationSchedule" : "functionalRequirementsSpecificationSchedule",
+  "serviceDescription" : "serviceDescription",
+  "functionalRequirementsVersionNumber" : "functionalRequirementsVersionNumber",
+  "functionalRequirementsInstanceAnalysis" : {
+    "functionalRequirementsInstanceAnalysisReportType" : "functionalRequirementsInstanceAnalysisReportType",
+    "functionalRequirementsInstanceAnalysisParameters" : "functionalRequirementsInstanceAnalysisParameters",
+    "functionalRequirementsInstanceAnalysisReport" : {},
+    "functionalRequirementsInstanceAnalysisRecord" : {}
+  }
+}

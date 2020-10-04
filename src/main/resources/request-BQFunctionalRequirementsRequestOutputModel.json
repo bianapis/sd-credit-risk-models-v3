@@ -1,0 +1,14 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "functionalRequirementsRequestActionTaskReference" : "FRRATR737477",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "functionalRequirementsRequestRecordReference" : "FRRRR784758",
+  "functionalRequirementsPreconditions" : "functionalRequirementsPreconditions",
+  "functionalRequirementsSpecificationSchedule" : "functionalRequirementsSpecificationSchedule",
+  "serviceDescription" : "serviceDescription",
+  "functionalRequirementsRequestActionTaskRecord" : {},
+  "functionalRequirementsVersionNumber" : "functionalRequirementsVersionNumber",
+  "requestResponseRecord" : {},
+  "serviceInputsandOuputs" : "serviceInputsandOuputs"
+}

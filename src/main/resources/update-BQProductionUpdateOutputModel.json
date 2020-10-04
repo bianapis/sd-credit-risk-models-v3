@@ -1,0 +1,14 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "productionUpdateActionTaskReference" : "PUATR786720",
+  "productionSpecificationSchedule" : "productionSpecificationSchedule",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "productionVersionNumber" : "productionVersionNumber",
+  "productionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "serviceDescription" : "serviceDescription",
+  "serviceName" : "serviceName",
+  "productionPreconditions" : "productionPreconditions",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs"
+}

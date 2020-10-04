@@ -1,0 +1,13 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "functionalRequirementsPreconditions" : "functionalRequirementsPreconditions",
+  "updateResponseRecord" : {},
+  "functionalRequirementsUpdateActionTaskRecord" : {},
+  "functionalRequirementsSpecificationSchedule" : "functionalRequirementsSpecificationSchedule",
+  "serviceDescription" : "serviceDescription",
+  "functionalRequirementsVersionNumber" : "functionalRequirementsVersionNumber",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "functionalRequirementsUpdateActionTaskReference" : "FRUATR742032"
+}

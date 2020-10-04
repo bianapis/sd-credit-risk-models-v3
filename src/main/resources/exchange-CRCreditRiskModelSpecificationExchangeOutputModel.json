@@ -1,0 +1,11 @@
+{
+  "creditRiskModelSpecificationFeedback" : "creditRiskModelSpecificationFeedback",
+  "creditRiskModelSpecificationUsageLog" : "creditRiskModelSpecificationUsageLog",
+  "creditRiskModelSpecificationStatus" : "creditRiskModelSpecificationStatus",
+  "creditRiskModelSpecificationExchangeActionTaskRecord" : {},
+  "creditRiskModelSpecificationExchangeActionTaskReference" : "CRMSEATR720802",
+  "creditRiskModelSpecificationParameterType" : "creditRiskModelSpecificationParameterType",
+  "creditRiskModelSpecificationSelectedOption" : "creditRiskModelSpecificationSelectedOption",
+  "creditRiskModelSpecificationVersion" : "creditRiskModelSpecificationVersion",
+  "creditRiskModelSpecificationExchangeActionResponse" : "creditRiskModelSpecificationExchangeActionResponse"
+}

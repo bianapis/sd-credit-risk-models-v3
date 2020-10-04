@@ -1,0 +1,23 @@
+{
+  "creditRiskModelSpecificationFeedback" : "creditRiskModelSpecificationFeedback",
+  "creditRiskModelSpecificationUsageLog" : "creditRiskModelSpecificationUsageLog",
+  "creditRiskModelSpecificationRetrieveActionTaskRecord" : {},
+  "creditRiskModelSpecificationParameterType" : "creditRiskModelSpecificationParameterType",
+  "creditRiskModelSpecificationSelectedOption" : "creditRiskModelSpecificationSelectedOption",
+  "creditRiskModelSpecificationRetrieveActionTaskReference" : "CRMSRATR755578",
+  "creditRiskModelSpecificationInstanceReportRecord" : {
+    "creditRiskModelSpecificationInstanceReport" : {},
+    "creditRiskModelSpecificationInstanceReportData" : "creditRiskModelSpecificationInstanceReportData",
+    "creditRiskModelSpecificationInstanceReportType" : "creditRiskModelSpecificationInstanceReportType"
+  },
+  "creditRiskModelSpecificationInstanceAnalysis" : {
+    "creditRiskModelSpecificationInstanceAnalysisData" : "creditRiskModelSpecificationInstanceAnalysisData",
+    "creditRiskModelSpecificationInstanceAnalysisReport" : {},
+    "creditRiskModelSpecificationInstanceAnalysisReportType" : "creditRiskModelSpecificationInstanceAnalysisReportType"
+  },
+  "creditRiskModelSpecificationStatus" : "creditRiskModelSpecificationStatus",
+  "creditRiskModelSpecificationRetrieveActionResponse" : "creditRiskModelSpecificationRetrieveActionResponse",
+  "creditRiskModelSpecificationServiceProviderReference" : "CRMSSR719164",
+  "creditRiskModelSpecificationDescription" : "creditRiskModelSpecificationDescription",
+  "creditRiskModelSpecificationVersion" : "creditRiskModelSpecificationVersion"
+}

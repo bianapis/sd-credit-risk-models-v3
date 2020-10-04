@@ -1,0 +1,26 @@
+{
+  "serviceType" : "serviceType",
+  "testingRetrieveActionResponse" : "testingRetrieveActionResponse",
+  "businessService" : "businessService",
+  "testingVersionNumber" : "testingVersionNumber",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "testingInstanceReport" : {
+    "testingInstanceReportType" : "testingInstanceReportType",
+    "testingInstanceReportRecord" : {},
+    "testingInstanceReport" : {},
+    "testingInstanceReportParameters" : "testingInstanceReportParameters"
+  },
+  "testingSpecificationSchedule" : "testingSpecificationSchedule",
+  "serviceName" : "serviceName",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "testingRetrieveActionTaskRecord" : {},
+  "testingInstanceAnalysis" : {
+    "testingInstanceAnalysisReportType" : "testingInstanceAnalysisReportType",
+    "testingInstanceAnalysisRecord" : {},
+    "testingInstanceAnalysisParameters" : "testingInstanceAnalysisParameters",
+    "testingInstanceAnalysisReport" : {}
+  },
+  "testingPreconditions" : "testingPreconditions",
+  "testingRetrieveActionTaskReference" : "TRATR777018",
+  "serviceDescription" : "serviceDescription"
+}

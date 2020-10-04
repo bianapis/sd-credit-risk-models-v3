@@ -1,0 +1,14 @@
+{
+  "serviceType" : "serviceType",
+  "functionalRequirementsCaptureActionTaskReference" : "FRCATR726021",
+  "businessService" : "businessService",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "functionalRequirementsPreconditions" : "functionalRequirementsPreconditions",
+  "functionalRequirementsCaptureActionTaskRecord" : {},
+  "functionalRequirementsSpecificationSchedule" : "functionalRequirementsSpecificationSchedule",
+  "serviceDescription" : "serviceDescription",
+  "functionalRequirementsCaptureRecordReference" : "FRCRR798350",
+  "captureResponseRecord" : {},
+  "functionalRequirementsVersionNumber" : "functionalRequirementsVersionNumber",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs"
+}
